@@ -1,0 +1,7 @@
+Total feedback entries: 80
+Total number of feedback entries: 80
+Keyword occurrences:
+good: 22
+bad: 21
+excellent: 22
+poor: 23
